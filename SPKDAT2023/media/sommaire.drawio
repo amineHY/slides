@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="hyTr8o2kLIH_1gMowuD0" name="Page-1">
+        <mxGraphModel dx="1843" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="20" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="619" y="479" width="310" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="759.99" y="240" width="310.01" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="389" y="240" width="276.11" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="n30EHeOQcIRf2PgfokZ_-14" value="Machine Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="769.9949999999999" y="285" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="240" width="340" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="n30EHeOQcIRf2PgfokZ_-11" value="Big Data, Vue d'ensemble" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="45" y="285" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="n30EHeOQcIRf2PgfokZ_-10" value="DataViz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="669" y="529" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="n30EHeOQcIRf2PgfokZ_-12" value="Rappel Python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="411.44499999999994" y="285" width="257" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="159.99" y="479" width="290.01" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="n30EHeOQcIRf2PgfokZ_-13" value="ML + Spark" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="159.995" y="529" width="290" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

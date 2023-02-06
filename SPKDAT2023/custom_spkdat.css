@@ -1,0 +1,196 @@
+/* @import url(../../node_modules/reveal.js/lib/font/league-gothic/league-gothic.css); */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic);
+
+/* GLOBAL STYLES */
+
+/* ########################################## */
+/* Add a background image to all slides */
+
+/* ########################################## */
+/* Footer */
+/* .reveal.slide .slides > section,
+.reveal.slide .slides > section > section {
+  min-height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  position: absolute !important;
+  top: 0 !important;
+  align-items: center !important;
+}*/
+/* section > h1,
+section > h2 {
+  position: absolute !important;
+  top: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  left: 0 !important;
+  right: 0 !important;
+  text-align: center !important;
+}
+.print-pdf .reveal.slide .slides > section,
+.print-pdf .reveal.slide .slides > section > section {
+  min-height: 770px !important;
+  position: relative !important;
+}  */
+/* body:after {
+  content: "Spark sur Databricks © AmineHY 2023";
+  position: fixed;
+  padding: 0.2em;
+  width: 100%;
+  bottom: 0;
+  height: 1em;
+  background-color: #050c41;
+  color: white;
+  text-align: left;
+  font-size: 1.5rem;
+} */
+
+/* ########################################## */
+/* Logo */
+/* body:before {
+  content: "";
+  position: fixed;
+  top: 1cm;
+  left: 1cm;
+  width: 6em;
+  height: 6em;
+  background: url(../media/m2i_formation.jpeg);
+  background-size: 6em;
+  background-repeat: no-repeat;
+}
+body:before {
+  content: "";
+  position: fixed;
+  top: 1cm;
+  right: 1cm;
+  width: 6em;
+  height: 6em;
+  background: url(../media/m2i_formation.jpeg);
+  background-size: 6em;
+  background-repeat: no-repeat;
+  background-position: 3% 96%;
+} */
+
+/* body:before {
+    content: "";
+    position: absolute;
+    top: 1cm;
+    right: 1cm;
+    width: 6em;
+    height: 6em;
+    background-image: url(../media/m2i_formation.jpeg);
+    background-size: 6em;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
+  } */
+
+/* .reveal section.title {
+  background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+/* Edit the background of all sections with an id */
+section[id]::before {
+  background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 1920;
+}
+/* ########################################## */
+
+section[id]::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+header img {
+  height: 100px;
+  object-fit: cover;
+}
+/* header {
+  content: "";
+  position: absolute;
+  top: 0cm;
+  left: 0cm;
+  width: 6em;
+  height: 6em;
+  background-image: url(../media/m2i_formation.jpeg);
+  background-size: 2cm;
+  background-repeat: no-repeat;
+} */
+
+/* body {
+  background-image: url(../media/hero-background.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
+
+/* ########################################## */
+
+/*Remove shadow and border of images*/
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+/* ########################################## */
+
+/* Headings */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  /* margin: 0 0 20px 0; */
+  margin-bottom: 1em;
+  color: #050c41;
+  font-family: "Roboto", Impact, sans-serif;
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: normal;
+  word-wrap: break-word;
+  text-align: center;
+  top: 0;
+}
+
+.reveal section.title h1 {
+  margin-top: 2.3em;
+}
+
+/* .reveal section.title small {
+  margin-top: 15.3em;
+  font-weight: bold;
+  color: white;
+} */
+
+/* ################################ */
+
+footer p {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0em;
+  width: 100%;
+  padding: 0px 0;
+  color: rgb(15, 2, 2);
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
