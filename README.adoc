@@ -1,0 +1,13 @@
+= Slides
+
+// docker run -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor
+
+:link-spark: https://files.training.databricks.com/images/105/logo_spark_tiny.png
+
+Ce repo contient mes slides
+
+- link:SPKDAT2023/index_spkdat.html[Spark avec Databricks]
+- link:SPKDAT2023/index_spkdat.html[Spark avec Databricks]
+- link:SPKDAT2023/index_spkdat.html[Spark avec Databricks]
+
+// regex : ^$\n\n+  =>  \n
