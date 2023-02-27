@@ -9,5 +9,4 @@ Ce repo contient mes slides
 - link:SPKDAT2023/index_spkdat.html[Spark avec Databricks]
 - link:SPK2023/Spark_Programming_Training.html[Spark Programming Training]
 
-
 // regex : ^$\n\n+  =>  \n
